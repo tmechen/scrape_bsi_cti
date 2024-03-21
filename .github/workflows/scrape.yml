@@ -1,0 +1,27 @@
+name: Scrape BSI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '3 * 3 * *'
+
+jobs:
+    scheduled:
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v4
+        - uses: actions/setup-python@v4
+          with:
+            python-version: '3.11' 
+            cache: 'pip' # caching pip dependencies
+        - uses: insightsengineering/pip-action@v2
+          with:
+            requirements: requirements.txt
+    
+        - name: Scrape BSI 
+          run: python ./scrape.py
+
+        - uses: EndBug/add-and-commit@v9
+          with:
+            default_author: github_actions
+            fetch: true

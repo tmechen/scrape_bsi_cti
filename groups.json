@@ -1,0 +1,112 @@
+[
+  {
+    "Besondere Eigenschaften": "Die Gruppe nutzt eigene Verschleierungsnetzwerke aus kompromittierten Routern und VPN-Servern.",
+    "Gruppenname und Aliase": "APT15 (Vixen Panda / Mirage / Ke3chang)",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+  },
+  {
+    "Besondere Eigenschaften": "APT28 nutzt diverse Angriffsvektoren, z. B.(Outlook-Schwachstelle CVE-2023-23397 (via E-Mail)WinRAR-Schwachstelle CVE-2023-38831 (via E-Mail-Anhang)Bruteforcing und Password-Spraying gegen erreichbare Server()",
+    "Gruppenname und Aliase": "APT28 (Fancy Bear / Sofacy)",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und OrdnungÖffentliche Verwaltung"
+  },
+  {
+    "Besondere Eigenschaften": "Um im legitimen Internetverkehr nicht aufzufallen, nutzt APT29 oft legitime Cloud-Dienste als Kontrollserver.",
+    "Gruppenname und Aliase": "APT29 (Cozy Bear / Nobelium)",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und OrdnungÖffentliche Verwaltung"
+  },
+  {
+    "Besondere Eigenschaften": "Die Gruppe betreibt Social Engineering und versendet zunächst mehrere Emails ohne Schadcode, bis der Empfänger schließlich Vertrauen aufgebaut hat. Erst dann wird Schadcode oder ein Phishing-Link übermittelt.",
+    "Gruppenname und Aliase": "APT43 (Velvet Chollima / Kimsuky)",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und KunstwissenschaftenÖffentliche VerwaltungRechtsberatungTertiärer und post-sekundärer, nicht tertiärer Unterricht"
+  },
+  {
+    "Besondere Eigenschaften": "Der Angriffsvektor sind meistens CHM- oder RAR-Mailanhänge.",
+    "Gruppenname und Aliase": "Bitter / Hazy Tiger",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+  },
+  {
+    "Besondere Eigenschaften": "Die Täter kompromittieren mitunter zunächst Zwischenziele, um Informationen für Folge-Angriffe auf die eigentlichen Ziele zu erlangen.",
+    "Gruppenname und Aliase": "Cosmic Wolf / Sea Turtle",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Erbringung von Dienstleistungen der Informationstechnologie"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "Earth Estries",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "unbekannt"
+  },
+  {
+    "Besondere Eigenschaften": "Die Gruppe legt kontinuierlich neue Phishing-Domains und Kontrollserver an.",
+    "Gruppenname und Aliase": "Gamaredon",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+  },
+  {
+    "Besondere Eigenschaften": "Private E-Mail-Postfächer bei kommerziellen Webmail-Anbietern werden mittels Spearphishing angegriffen.",
+    "Gruppenname und Aliase": "Ghostwriter / UNC1151",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "unspezifisch"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "Labyrinth Chollima (Lazarus)",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Erbringung von Dienstleistungen der Informationstechnologie"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "Mirage Tiger",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "Mustang Panda",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "Outrider Tiger (Fishing Elephant)",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+  },
+  {
+    "Besondere Eigenschaften": "Die Angriffe richten sich typischerweise gegen VPN-Systeme und andere Perimeter-Systeme.",
+    "Gruppenname und Aliase": "Red Dev 61 / UTA0178 / UNC5221",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche VerwaltungWirtschaftsförderung, -ordnung und -aufsicht"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "RomCom",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "Salted Earth / Sturgeon Fisher / Yoro Trooper",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "unbekannt"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "Sharp Panda",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "Snake / Venomous Bear / Turla",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+  },
+  {
+    "Besondere Eigenschaften": "Die Gruppe nutzt eigene VPN-Netzwerken, um ihren Angriffsverkehr zu verschleiern.",
+    "Gruppenname und Aliase": "Storm-0558",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "Viceroy Tiger / Donot",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und OrdnungÖffentliche Verwaltung"
+  },
+  {
+    "Besondere Eigenschaften": "",
+    "Gruppenname und Aliase": "Winter Vivern / TAG-70",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
+  },
+  {
+    "Besondere Eigenschaften": "Die Täter versenden ZIP-Archive als Mail-Anhänge, in der die öffentlich verfügbare Malware Remcos enthalten ist.",
+    "Gruppenname und Aliase": "UAC-0050",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+  }
+]
