@@ -18,8 +18,11 @@ jobs:
           with:
             requirements: requirements.txt
     
-        - name: Scrape BSI 
-          run: python ./scrape.py
+        - name: Scrape BSI APT groups
+          run: python ./scrape_apt.py
+    
+        - name: Scrape BSI crime groups
+          run: python ./scrape_crime.py
 
         - uses: EndBug/add-and-commit@v9
           with:

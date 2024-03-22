@@ -7,7 +7,7 @@ CTI = "/Analysen-und-Prognosen/Threat-Intelligence"
 GROUPS_PAGE = "/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html"
 
 def write_to_file(out_data):
-    with open("groups.json", 'w+', encoding="utf-8") as f:
+    with open("groups_apt.json", 'w+', encoding="utf-8") as f:
         json.dump(out_data, f, indent=2, sort_keys=True, ensure_ascii=False)
         f.write('\n')
 
