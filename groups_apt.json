@@ -1,22 +1,22 @@
 [
   {
     "Besondere Eigenschaften": "Die Gruppe nutzt eigene Verschleierungsnetzwerke aus kompromittierten Routern und VPN-Servern.",
-    "Gruppenname und Aliase": "APT15 (Vixen Panda / Mirage / Ke3chang)",
+    "Gruppenname und Aliase": "APT15 (Vixen Panda / Mirage / Ke3chang / Nylon Typhoon)",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
   },
   {
     "Besondere Eigenschaften": "APT28 nutzt diverse Angriffsvektoren, z. B.(Outlook-Schwachstelle CVE-2023-23397 (via E-Mail)WinRAR-Schwachstelle CVE-2023-38831 (via E-Mail-Anhang)Bruteforcing und Password-Spraying gegen erreichbare Server()",
-    "Gruppenname und Aliase": "APT28 (Fancy Bear / Sofacy)",
+    "Gruppenname und Aliase": "APT28 (Fancy Bear / Sofacy / Forest Blizzard)",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und OrdnungÖffentliche Verwaltung"
   },
   {
     "Besondere Eigenschaften": "Um im legitimen Internetverkehr nicht aufzufallen, nutzt APT29 oft legitime Cloud-Dienste als Kontrollserver.",
-    "Gruppenname und Aliase": "APT29 (Cozy Bear / Nobelium)",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und OrdnungÖffentliche Verwaltung"
+    "Gruppenname und Aliase": "APT29 (Cozy Bear / Nobelium / Midnight Blizzard)",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und OrdnungÖffentliche VerwaltungPolitische Parteien und sonstige Vereinigungen"
   },
   {
     "Besondere Eigenschaften": "Die Gruppe betreibt Social Engineering und versendet zunächst mehrere Emails ohne Schadcode, bis der Empfänger schließlich Vertrauen aufgebaut hat. Erst dann wird Schadcode oder ein Phishing-Link übermittelt.",
-    "Gruppenname und Aliase": "APT43 (Velvet Chollima / Kimsuky)",
+    "Gruppenname und Aliase": "APT43 (Velvet Chollima / Kimsuky / Emerald Sleet)",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und KunstwissenschaftenÖffentliche VerwaltungRechtsberatungTertiärer und post-sekundärer, nicht tertiärer Unterricht"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "Besondere Eigenschaften": "Die Täter kompromittieren mitunter zunächst Zwischenziele, um Informationen für Folge-Angriffe auf die eigentlichen Ziele zu erlangen.",
-    "Gruppenname und Aliase": "Cosmic Wolf / Sea Turtle",
+    "Gruppenname und Aliase": "Cosmic Wolf / Sea Turtle / Marbled Dust",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Erbringung von Dienstleistungen der Informationstechnologie"
   },
   {
@@ -36,17 +36,17 @@
   },
   {
     "Besondere Eigenschaften": "Die Gruppe legt kontinuierlich neue Phishing-Domains und Kontrollserver an.",
-    "Gruppenname und Aliase": "Gamaredon",
+    "Gruppenname und Aliase": "Gamaredon / Primitive Bear / Aqua Blizzard",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
   },
   {
     "Besondere Eigenschaften": "Private E-Mail-Postfächer bei kommerziellen Webmail-Anbietern werden mittels Spearphishing angegriffen.",
-    "Gruppenname und Aliase": "Ghostwriter / UNC1151",
+    "Gruppenname und Aliase": "Ghostwriter / UNC1151 / Storm-0257",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "unspezifisch"
   },
   {
     "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Labyrinth Chollima (Lazarus)",
+    "Gruppenname und Aliase": "Labyrinth Chollima / Lazarus / Diamond Sleet",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Erbringung von Dienstleistungen der Informationstechnologie"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "RomCom",
+    "Gruppenname und Aliase": "RomCom / Storm-0978",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Snake / Venomous Bear / Turla",
+    "Gruppenname und Aliase": "Snake / Venomous Bear / Turla / Secret Blizzard",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
   },
   {
