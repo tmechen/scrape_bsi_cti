@@ -33,7 +33,10 @@ def get_table_data(html_response):
 
 def main():
     url = BSI + CTI + GROUPS_PAGE
-    headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0'}
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0',
+        'accept': '*/*'
+        }
     response = requests.get(url, headers=headers, timeout=10)
     return get_table_data(html_response=response.text)
 
