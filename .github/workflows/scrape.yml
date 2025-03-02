@@ -3,7 +3,7 @@ name: Scrape BSI
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '3 * * * *'
+    - cron:  '3 * 2,15,28 * *'
 
 jobs:
     scheduled:
