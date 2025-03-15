@@ -30,6 +30,11 @@
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
   },
   {
+    "Besondere Eigenschaften": "Die Angreifer geben sich als Job-Bewerber oder Programmier-Freelancer aus, um Zugang zum Zielnetzwerk zu erhalten.",
+    "Gruppenname und Aliase": "Contagious Interview / Beaver Tail / Invisible Ferret / Famous Chollima",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Mit Finanzdienstleistungen verbundene Tätigkeiten"
+  },
+  {
     "Besondere Eigenschaften": "Die Täter kompromittieren mitunter zunächst Zwischenziele, um Informationen für Folge-Angriffe auf die eigentlichen Ziele zu erlangen.",
     "Gruppenname und Aliase": "Cosmic Wolf / Sea Turtle / Marbled Dust",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Erbringung von Dienstleistungen der Informationstechnologie"
@@ -43,11 +48,6 @@
     "Besondere Eigenschaften": "",
     "Gruppenname und Aliase": "Earth Estries",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "unbekannt"
-  },
-  {
-    "Besondere Eigenschaften": "Die Gruppe legt kontinuierlich neue Phishing-Domains und Kontrollserver an.",
-    "Gruppenname und Aliase": "Gamaredon / Primitive Bear / Aqua Blizzard",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
   },
   {
     "Besondere Eigenschaften": "Private E-Mail-Postfächer bei kommerziellen Webmail-Anbietern werden mittels Spearphishing angegriffen.",
@@ -85,6 +85,11 @@
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche VerwaltungWirtschaftsförderung, -ordnung und -aufsicht"
   },
   {
+    "Besondere Eigenschaften": "Angriffsvektor besteht im Versand von passwortgeschützten RAR-Datei, die ausführbare Dateien mit doppelter Dateiendung enthalten.",
+    "Gruppenname und Aliase": "Rezet / Rare Wolf / Librarian Ghouls",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "Güterbeförderung in der See- und Küstenschifffahrt"
+  },
+  {
     "Besondere Eigenschaften": "",
     "Gruppenname und Aliase": "RomCom / Storm-0978",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
@@ -93,6 +98,11 @@
     "Besondere Eigenschaften": "",
     "Gruppenname und Aliase": "Salted Earth / Sturgeon Fisher / Yoro Trooper",
     "Wirtschaftszweig in Deutschland nach WZ 2008": "unbekannt"
+  },
+  {
+    "Besondere Eigenschaften": "Die Gruppe kompromittiert u. a. schlecht gewartete Perimeter-Systeme. Die Motivation und Zielauswahl für Deutschland ist bislang unklar.",
+    "Gruppenname und Aliase": "Salt Typhoon",
+    "Wirtschaftszweig in Deutschland nach WZ 2008": "diverse"
   },
   {
     "Besondere Eigenschaften": "",
