@@ -1,15 +1,5 @@
 [
   {
-    "Beschreibung": "RaaS LockBit wahrscheinlich seit September 2019 aktiv.Keine Sektoren generell von Angriffen ausgeschlossen; öffentliche Organisationen werden ausgeschlossen, wenn diese über keinen Umsatz verfügen - Mit Abweichungen ist zu rechnen!Angriffe gegen Organisationen aus Ländern der Gemeinschaft Unabhängiger Staaten (Commonwealth of Independent States) ausgeschlossen.Am 19. und 20. Februar 2024 wurden Strafverfolgungsmaßnahmen im Rahmen der Operation Cronos gegen die RaaS LockBit bekannt. Bereits am 24. Februar 2024 wurde eine neue Leak-Seite bekannt.Am 7. Mai 2024 wurden weitere Details aus der Operation Cronos und Sanktionen gegen mindestens ein Mitglied von Bitwise Spider in Großbritannien, den Vereinigten Staaten von Amerika und Australien veröffentlicht.Im Dezember 2024 startete die Betreibergruppe die Version 4.0 der RaaS LockBit. ",
-    "Besondere Eigenschaften": "Verantwortlich für zugangsbeschränkte1 RaaS LockBit (aka LockBit 2.0, LockBit 3.0, LockBit 4.0, ABCD)Umfasst Varianten LockBit RED, LockBit BLACK, LockBit GREEN, LockBit Linux/ESXiLeak-Seite bekannt ",
-    "Gruppenname ": "Bitwise Spider  (aka Gold Mystic, White Janus, White Dev 66) - Aktivität signifikant abgenommen -  "
-  },
-  {
-    "Beschreibung": "RaaS 8Base wahrscheinlich seit Januar 2022 aktiv.Kein Ausschluss von Sektoren oder Ländern von Angriffen bekannt.Am 10. Februar 2025 haben mehrere internationale Strafverfolgungsbehörden die Operation Phobos Aetor durchgeführt. Dabei wurde die Leak-Seite beschlagnahmt. ",
-    "Besondere Eigenschaften": "Verantwortlich für geschlossene2 RaaS 8Base (aka EightBase)Leak-Seite bekannt ",
-    "Gruppenname ": "Brain Spider  (aka White Ea) - Aktivität signifikant abgenommen -  "
-  },
-  {
     "Beschreibung": "RaaS Medusa wahrscheinlich seit Ende 2022 aktiv.Kein Ausschluss von Sektoren oder Ländern von Angriffen bekannt. ",
     "Besondere Eigenschaften": "Verantwortlich für zugangsbeschränkte1 RaaS MedusaDie Ransomware Medusa sollte nicht mit der ähnlich benannten Ransomware MedusaLocker verwechselt werdenLeak-Seite bekannt ",
     "Gruppenname ": "Frozen Spider (aka White Kali)"
@@ -20,19 +10,14 @@
     "Gruppenname ": "Graceful Spider  (aka ATK103, Chimborazo, DEV-0950, Dudear, FIN11, G0092, Gold Tahoe, Hive0065, Lace Tempest, SectorJ04, Spandex Tempest, TA505, White Austaras)"
   },
   {
-    "Beschreibung": "MaaS Shindig wahrscheinlich seit März 2022 aktiv.Kein Ausschluss von Sektoren oder Ländern von Angriffen bekannt.Shindig war Ziel der Strafverfolgungsmaßnahmen in Operation Endgame.BSI hat mehrere Monate nach Maßnahmen der Operation Endgame Berichte über neue Aktivität erhalten. ",
+    "Beschreibung": "MaaS Shindig wahrscheinlich seit März 2022 aktiv.Kein Ausschluss von Sektoren oder Ländern von Angriffen bekannt.Shindig war Ziel der Strafverfolgungsmaßnahmen in Operation Endgame. Nach Kenntnislage des BSI wird Shindig weiterentwickelt und in Angriffen eingesetzt. ",
     "Besondere Eigenschaften": "Verantwortlich für MaaS Shindig (aka Bumblebee)Shindig wird von verschiedenen Access Brokern verwendet.Einem Angriff mit Shindig folgt häufig der Diebstahl von Daten und der Einsatz von Ransomware ",
     "Gruppenname ": "Honey Spider"
   },
   {
-    "Beschreibung": "MaaS BokBot war wahrscheinlich seit April 2017 bis Ende 2023 aktiv.Kein Ausschluss von Sektoren oder Ländern von Angriffen bekannt.BokBot basiert auf Banking-Trojaner Neverquest (aka Vawtrak)BokBot war Ziel der Strafverfolgungsmaßnahmen in Operation Endgame.Der Loader Lotus wird wahrscheinlich seit Oktober 2023 eingesetzt. ",
-    "Besondere Eigenschaften": "Verantwortlich für MaaS BokBot (aka IcedID)Lotus (aka Latrodectus, BlackWidow, IceNova) Lotus wird von verschiedenen Access Brokern verwendet.Einem Angriff mit Lotus folgt häufig der Diebstahl von Daten und der Einsatz von Ransomware ",
+    "Beschreibung": "MaaS BokBot war wahrscheinlich seit April 2017 bis Ende 2023 aktiv.Kein Ausschluss von Sektoren oder Ländern von Angriffen bekannt.BokBot basiert auf Banking-Trojaner Neverquest (aka Vawtrak)BokBot war Ziel der Strafverfolgungsmaßnahmen in Operation Endgame.Die MaaS Lotus wird wahrscheinlich seit Oktober 2023 eingesetzt und aktiv weiterentwickelt. ",
+    "Besondere Eigenschaften": "Verantwortlich für MaaS BokBot (aka IcedID)MaaS Lotus (aka Latrodectus, BlackWidow, IceNova) Lotus wird von verschiedenen Access Brokern verwendet.Einem Angriff mit Lotus folgt häufig der Diebstahl von Daten und der Einsatz von Ransomware ",
     "Gruppenname ": "Lunar Spider  (aka Gold Swathmore, White Khione)"
-  },
-  {
-    "Beschreibung": "RaaS RansomHub wahrscheinlich seit Februar 2024 aktiv.Betreiber sollen Quellcode von RaaS Cyclops gekauft haben.Die ESXi-Version von RansomHub weist technische Überschneidungen mit der ESXi-Version von Cyclops (aka Knight) und Babuk auf.Affiliates der RaaS Alphv wechselten wahrscheinlich zu RansomHub. ",
-    "Besondere Eigenschaften": "Verantwortlich für zugangsbeschränkte1 RaaS RansomHubLeak-Seite bekannt ",
-    "Gruppenname ": "Ocular Spider  (aka White Enbarr, Spoiled Scorpius) "
   },
   {
     "Beschreibung": "RaaS Akira wahrscheinlich seit März 2023 aktiv.Angriffe gegen Regierungsorganisationen ausgeschlossen - Mit Abweichungen ist zu rechnen!Kein Ausschluss von Ländern von Angriffen bekannt.Akira basiert wahrscheinlich auf dem im Februar 2022 geleakten Quellcode der inaktiven RaaS Conti. ",
@@ -45,24 +30,24 @@
     "Gruppenname ": "Recess Spider  (aka White Peryton)"
   },
   {
-    "Beschreibung": "Affiliate-Gruppe wahrscheinlich seit März 2022 aktiv.Ausschluss von Sektoren und Ländern richtet sich nach verwendeter RaaS.Scattered Spider setzte seit mindestens April 2023 Ransomware Alphv ein.Erstmals im April 2024 Hinweis auf möglichen Wechsel zur RaaS Qilin.Seit Mitte 2024 wahrscheinlich Affiliate bei RaaS RansomHub.In 2024 wurden mehrere Tatverdächtige in Verbindung mit Scattered Spider festgenommen. ",
-    "Besondere Eigenschaften": "Verantwortlich für MaaS BlackLotusWar Affiliate der RaaS AlphvEher wahrscheinlich Affiliate der RaaS Qilin (siehe White Kore)Wahrscheinlich Affiliate der RaaS RansomHub (siehe White Enbarr)Wiederholt Einsatz von SIM-Swapping und Social Engineering gegen Helpdesk-Mitarbeiter zur Übernahme von validen AccountsAngreifer interagiert gezielt mit Cloud-Ressourcen von BetroffenenRegistriert zum Beispiel eigene Identitätsprovider, um sich als beliebigen validen Account anmelden zu können ",
+    "Beschreibung": "Affiliate-Gruppe wahrscheinlich seit März 2022 aktiv.Ausschluss von Sektoren und Ländern richtet sich nach verwendeter RaaS.Wahrscheinlich seit April 2025 Affiliate bei RaaS DragonForce.In 2024 und 2025 wurden mehrere Tatverdächtige in Verbindung mit Scattered Spider festgenommen. ",
+    "Besondere Eigenschaften": "Verantwortlich für MaaS BlackLotusWar Affiliate der RaaS Alphv, RansomHubWahrscheinlich Affiliate der RaaS DragonForce (Siehe White Dragon)Wiederholt Einsatz von SIM-Swapping und Social Engineering gegen Helpdesk-Mitarbeiter zur Übernahme von validen AccountsAngreifer interagiert gezielt mit Cloud-Ressourcen von BetroffenenRegistriert zum Beispiel eigene Identitätsprovider, um sich als beliebigen validen Account anmelden zu können ",
     "Gruppenname ": "Scattered Spider  (aka 0ktapus, Dev0671, Dev0875, Dev0971, Muddled Libra, Octo Tempest, Oktapus, Roasted 0ktapus, Scatter Swine, Scattered Swine, StarFraud, Storm-0875, UNC3944, White Dev 146)"
   },
   {
-    "Beschreibung": "Angreifergruppe seit mindestens August 2019 aktiv. RaaS INC seit mindestens September 2023 aktiv.RaaS Lynx seit mindestens August 2024 aktiv.  ",
+    "Beschreibung": "Angreifergruppe seit mindestens August 2019 aktiv. RaaS INC seit mindestens September 2023 aktiv.RaaS Lynx seit mindestens August 2024 aktiv.Beide RaaS werden parallel betrieben. ",
     "Besondere Eigenschaften": "Verantwortlich für RaaS INCVerantwortlich für RaaS LynxLeak-Seiten zu RaaS bekanntWar verantwortlich für RaaS Nevada, RaaS Nokoyawa, RaaS Karma, RaaS Nefilim (aka Nemty X), RaaS Nemty ",
-    "Gruppenname ": "Traveling Spider  (aka Gold Mansard, White Imp) "
+    "Gruppenname ": "Traveling Spider (aka Gold Mansard, White Imp)"
   },
   {
-    "Beschreibung": "Affiliate-Gruppe wahrscheinlich seit April 2021 aktiv.Vice Spider nutzte über die Jahre eine Vielzahl verschiedener RaaS: DeathKitty (aka HelloKitty, Fivehands, Wacatac), Zeppelin (aka Buran), Hive, Quantum, Alphv, RedAlertLocker, LockBitVice Spider etablierte die eigene Präsenz ursprünglich unter dem Namen Vice Society.RaaS Rhysida wahrscheinlich seit Mai 2023 aktiv.Ransomware InterLock erstmals im Oktober 2024 beobachtet. ",
-    "Besondere Eigenschaften": "Wahrscheinlich verantwortlich für Ransomware RhysidaAlternativ Affiliate von geschlossener2 RaaS RhysidaBerichte aus viertem Quartal 2024 deuten Nutzung von neuer Ransomware InterLock an ",
+    "Beschreibung": "Affiliate-Gruppe wahrscheinlich seit April 2021 aktiv.Vice Spider nutzte über die Jahre eine Vielzahl verschiedener RaaS: DeathKitty (aka HelloKitty, Fivehands, Wacatac), Zeppelin (aka Buran), Hive, Quantum, Alphv, RedAlertLocker, LockBitVice Spider etablierte die eigene Präsenz ursprünglich unter dem Namen Vice Society.RaaS Rhysida wahrscheinlich seit Mai 2023 aktiv.Ransomware InterLock erstmals im Oktober 2024 beobachtet. Es ist unklar, inwieweit Vice Spider die Ransomware noch einsetzt.Bei Vice Spider zugeordneten Vorfällen wurde wiederholt der Einsatz von Tools von Lunar Spider berichtet. ",
+    "Besondere Eigenschaften": "Wahrscheinlich verantwortlich für Ransomware RhysidaAlternativ Affiliate von geschlossener2 RaaS RhysidaBerichte aus viertem Quartal 2024 deuten Nutzung von neuer Ransomware InterLock anZu beiden Ransomware-Familien sind Leak-Seiten bekannt ",
     "Gruppenname ": "Vice Spider (aka White Nefas, DEV-0832, Vanilla Tempest, Vice Society) "
   },
   {
-    "Beschreibung": "RaaS BlackBasta wahrscheinlich seit April 2022 aktiv.Kein Ausschluss von Sektoren oder Ländern von Angriffen bekannt.Am 11. Februar 2025 wurden interne Chat-Nachrichten der Betreibergruppe veröffentlicht. Seit dem ist die Leak-Seite offline. ",
-    "Besondere Eigenschaften": "Verantwortlich für zugangsbeschränkte1 RaaS BlackBasta (aka no_name_software)Leak-Seite bekannt ",
-    "Gruppenname ": "White Dev 115  (aka Blackbasta, UNC3973) - Aktivität signifikant abgenommen -  "
+    "Beschreibung": "RaaS DragonForce wahrscheinlich seit August 2023 aktiv. In 2025 etablierte die Betreibergruppe ein \"Cartel\"-Modell bei dem Angreifergruppen die Infrastruktur der RaaS DragonForce für ihr eigenes Branding nutzen können.So basiert die Ransomware Devman wahrscheinlich auf DragonForce. ",
+    "Besondere Eigenschaften": "Verantwortlich für zugangsbeschränkte1 RaaS DragonForceLeak-Seite bekanntRaaS DragonForce bietet sich auch als Service-Modell für eigenes Ransomware-Branding anDie RaaS DragonForce bietet Affiliates u. A. einen kostenlosen Call-Service. Hiermit sind wahrscheinlich die Erpressung begleitende Telefonanrufe gemeint.  ",
+    "Gruppenname ": "White Dragon (aka Slippery Scorpius) "
   },
   {
     "Beschreibung": "MaaS DarkGate wahrscheinlich seit 2017 aktiv, im Mai 2023 erstmals auf Untergrundforen beworben.Kein Ausschluss von Sektoren von Angriffen bekannt.Angriffe gegen Organisationen aus Russland und Moldawien ausgeschlossen.Ende 2023 hat die Betreibergruppe zum einem geschlossenen2 Betriebsmodus gewechselt. Zuvor wurde die MaaS bis zu 30 Affiliates angeboten.Im November 2024 wurde DarkGate wieder als zugangsbeschränkte1 MaaS angeboten ",
@@ -75,13 +60,18 @@
     "Gruppenname ": "White Kore"
   },
   {
-    "Beschreibung": "Affiliate-Gruppe wahrscheinlich seit August 2021 aktiv.Ausschluss von Sektoren und Ländern richtet sich nach verwendeter RaaS.War auch Affiliate bei RaaS LockBit (siehe Bitwise Spider), RaaS BlackMatter, RaaS Alphv und RaaS Conti.Seit Ende Dezember 2021 Affiliate bei RaaS Alphv.Aktuelle Aktivität als Affiliate bei einer anderen RaaS derzeit unbekannt. ",
-    "Besondere Eigenschaften": "Verantwortlich für ExMatter (aka Sender2) ",
+    "Beschreibung": "Affiliate-Gruppe wahrscheinlich seit August 2021 aktiv.Ausschluss von Sektoren und Ländern richtet sich nach verwendeter RaaS.War auch Affiliate bei RaaS LockBit, RaaS BlackMatter, RaaS Alphv und RaaS Conti.Mehrere Vorfälle mit der Ransomware Termite in 2025 wurden White Veles zugeordnet. ",
+    "Besondere Eigenschaften": "Verantwortlich für ExMatter (aka Sender2)Eher wahrscheinlich verantwortlich für Ransomware Termite ",
     "Gruppenname ": "White Veles  (aka DEV-0504, Velvet Tempest)"
   },
   {
-    "Beschreibung": "RaaS HuntersInternational wahrscheinlich aktiv seit Oktober 2023.HuntersInternational basiert wahrscheinlich auf Quellcode der RaaS Hive, welche seit Januar 2023 inaktiv ist. ",
-    "Besondere Eigenschaften": "Verantwortlich für RaaS HuntersInternationalLeak-Seite bekannt. ",
+    "Beschreibung": "RaaS HuntersInternational war wahrscheinlich aktiv von Oktober 2023 bis Mai 2025.HuntersInternational basiert wahrscheinlich auf Quellcode der RaaS Hive, welche seit Januar 2023 inaktiv ist.WorldLeaks ist seit Januar 2025 bekannt, erste Aktivität wurde im Mai 2025 beobachtet. ",
+    "Besondere Eigenschaften": "Verantwortlich für RaaS WorldLeaksEhemals verantwortlich für RaaS HuntersInternationalLeak-Seite bekannt. ",
     "Gruppenname ": "White Yama"
+  },
+  {
+    "Beschreibung": "RaaS SafePay wahrscheinlich seit November 2024 aktiv.Auf der Leak-Seite von SafePay wurden überdurchschnittlich viele mutmaßlich Geschädigte aus Deutschland genannt. Ein Grund für diese Häufung ist dem BSI zum Zeitpunkt der Veröffentlichung dieses Eintrags nicht bekannt. ",
+    "Besondere Eigenschaften": "Verantwortlich für geschlossene2 RaaS SafePayLeak-Seite bekannt. Die Gruppe kontaktiert Geschädigte direkt (z. B. per Telefonanrufe), um den Druck zu erhöhen ",
+    "Gruppenname ": "N/A"
   }
 ]
