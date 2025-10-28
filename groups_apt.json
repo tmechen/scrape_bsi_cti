@@ -1,142 +1,356 @@
 [
   {
-    "Besondere Eigenschaften": "Die Gruppe nutzt eigene Verschleierungsnetzwerke aus kompromittierten Routern und VPN-Servern.",
-    "Gruppenname und Aliase": "APT15 (Vixen Panda / Mirage / Ke3chang / Nylon Typhoon)",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+    "group_name": "APT15 Vixen Panda",
+    "aliases": [
+      "Mirage",
+      "Ke3chang",
+      "Nylon Typhoon"
+    ],
+    "targeted_sectors": [
+      "Öffentliche Verwaltung"
+    ],
+    "characteristics": [
+      "Die Gruppe nutzt eigene Verschleierungsnetzwerke aus kompromittierten Routern und VPN-Servern."
+    ]
   },
   {
-    "Besondere Eigenschaften": "APT28 nutzt diverse Angriffsvektoren, z. B.(Outlook-Schwachstelle CVE-2023-23397 (via E-Mail)WinRAR-Schwachstelle CVE-2023-38831 (via E-Mail-Anhang)Bruteforcing und Password-Spraying gegen erreichbare Server()",
-    "Gruppenname und Aliase": "APT28 (Fancy Bear / Sofacy / Forest Blizzard)",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und OrdnungErbringung von Dienstleistungen der InformationstechnologieErbringung von sonstigen Dienstleistungen für die LuftfahrtÖffentliche VerwaltungPolitische Parteien und sonstige Vereinigungen"
+    "group_name": "APT28 Fancy Bear",
+    "aliases": [
+      "Sofacy",
+      "Forest Blizzard"
+    ],
+    "targeted_sectors": [
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung",
+      "Erbringung von Dienstleistungen der Informationstechnologie",
+      "Erbringung von sonstigen Dienstleistungen für die Luftfahrt",
+      "Öffentliche Verwaltung",
+      "Politische Parteien und sonstige Vereinigungen"
+    ],
+    "characteristics": [
+      "APT28 nutzt diverse Angriffsvektoren, z. B. Outlook-Schwachstelle CVE-2023-23397 (via E-Mail)",
+      "WinRAR-Schwachstelle CVE-2023-38831 (via E-Mail-Anhang)",
+      "Bruteforcing und Password-Spraying gegen erreichbare Server"
+    ]
   },
   {
-    "Besondere Eigenschaften": "Um im legitimen Internetverkehr nicht aufzufallen, nutzt APT29 oft legitime Cloud-Dienste als Kontrollserver.",
-    "Gruppenname und Aliase": "APT29 (Cozy Bear / Nobelium / Midnight Blizzard)",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und OrdnungErbringung von Dienstleistungen der InformationstechnologieÖffentliche VerwaltungPolitische Parteien und sonstige Vereinigungen"
+    "group_name": "APT29 Cozy Bear",
+    "aliases": [
+      "Nobelium",
+      "Midnight Blizzard"
+    ],
+    "targeted_sectors": [
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung",
+      "Erbringung von Dienstleistungen der Informationstechnologie",
+      "Öffentliche Verwaltung",
+      "Politische Parteien und sonstige Vereinigungen"
+    ],
+    "characteristics": [
+      "Um im legitimen Internetverkehr nicht aufzufallen, nutzt APT29 oft legitime Cloud-Dienste als Kontrollserver."
+    ]
   },
   {
-    "Besondere Eigenschaften": "Die Gruppe betreibt Social Engineering und versendet zunächst mehrere Emails ohne Schadcode, bis der Empfänger schließlich Vertrauen aufgebaut hat. Erst dann wird Schadcode oder ein Phishing-Link übermittelt.",
-    "Gruppenname und Aliase": "APT43 (Velvet Chollima / Kimsuky / Emerald Sleet)",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und KunstwissenschaftenHerstellung von Waffen und MunitionLuft- und RaumfahrzeugbauÖffentliche VerwaltungRechtsberatungTertiärer und post-sekundärer, nicht tertiärer Unterricht"
+    "group_name": "APT43 Velvet Chollima",
+    "aliases": [
+      "Kimsuky",
+      "Emerald Sleet"
+    ],
+    "targeted_sectors": [
+      "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften",
+      "Herstellung von Waffen und Munition",
+      "Luft- und Raumfahrzeugbau",
+      "Öffentliche Verwaltung",
+      "Rechtsberatung",
+      "Tertiärer und post-sekundärer, nicht tertiärer Unterricht"
+    ],
+    "characteristics": [
+      "Die Gruppe betreibt Social Engineering und versendet zunächst mehrere Emails ohne Schadcode, bis der Empfänger schließlich Vertrauen aufgebaut hat. Erst dann wird Schadcode oder ein Phishing-Link übermittelt."
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "APT 44 / Sandworm / Seashell Blizzard / Voodoo Bear",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": ""
+    "group_name": "APT 44",
+    "aliases": [
+      "Sandworm",
+      "Seashell Blizzard",
+      "Voodoo Bear"
+    ],
+    "targeted_sectors": [
+      "unbekannt"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "Der Angriffsvektor sind meistens CHM- oder RAR-Mailanhänge.",
-    "Gruppenname und Aliase": "Bitter / Hazy Tiger",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+    "group_name": "Bitter",
+    "aliases": [
+      "Hazy Tiger"
+    ],
+    "targeted_sectors": [
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+    ],
+    "characteristics": [
+      "Der Angriffsvektor sind meistens CHM- oder RAR-Mailanhänge."
+    ]
   },
   {
-    "Besondere Eigenschaften": "Die Angreifer geben sich als Job-Bewerber oder Programmier-Freelancer aus, um Zugang zum Zielnetzwerk zu erhalten.",
-    "Gruppenname und Aliase": "Contagious Interview / Beaver Tail / Invisible Ferret / Famous Chollima",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Mit Finanzdienstleistungen verbundene Tätigkeiten"
+    "group_name": "Charming Kitten",
+    "aliases": [
+      "APT42",
+      "Mint Sandstorm"
+    ],
+    "targeted_sectors": [
+      "Öffentliche Verwaltung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "Die Täter kompromittieren mitunter zunächst Zwischenziele, um Informationen für Folge-Angriffe auf die eigentlichen Ziele zu erlangen.",
-    "Gruppenname und Aliase": "Cosmic Wolf / Sea Turtle / Marbled Dust",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Erbringung von Dienstleistungen der Informationstechnologie"
+    "group_name": "Contagious Interview",
+    "aliases": [
+      "Beaver Tail",
+      "Invisible Ferret",
+      "Famous Chollima"
+    ],
+    "targeted_sectors": [
+      "Mit Finanzdienstleistungen verbundene Tätigkeiten"
+    ],
+    "characteristics": [
+      "Die Angreifer geben sich als Job-Bewerber oder Programmier-Freelancer aus, um Zugang zum Zielnetzwerk zu erhalten."
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Dark Hotel",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+    "group_name": "Cosmic Wolf",
+    "aliases": [
+      "Sea Turtle",
+      "Marbled Dust"
+    ],
+    "targeted_sectors": [
+      "Erbringung von Dienstleistungen der Informationstechnologie"
+    ],
+    "characteristics": [
+      "Die Täter kompromittieren mitunter zunächst Zwischenziele, um Informationen für Folge-Angriffe auf die eigentlichen Ziele zu erlangen."
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Earth Estries",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "unbekannt"
+    "group_name": "Dark Hotel",
+    "aliases": [],
+    "targeted_sectors": [
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "Private E-Mail-Postfächer bei kommerziellen Webmail-Anbietern werden mittels Spearphishing angegriffen.",
-    "Gruppenname und Aliase": "Ghostwriter / UNC1151 / Storm-0257",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "unspezifisch"
+    "group_name": "Earth Estries",
+    "aliases": [],
+    "targeted_sectors": [
+      "unbekannt"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "Als Angriffsvektor dienen oft Emails mit maliziösen Dokumenten zu vermeintlichen Jobangeboten.",
-    "Gruppenname und Aliase": "Labyrinth Chollima / Lazarus / Diamond Sleet",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Erbringung von Dienstleistungen der Informationstechnologie"
+    "group_name": "Labyrinth Chollima",
+    "aliases": [
+      "Lazarus",
+      "Diamond Sleet"
+    ],
+    "targeted_sectors": [
+      "Erbringung von Dienstleistungen der Informationstechnologie"
+    ],
+    "characteristics": [
+      "Als Angriffsvektor dienen oft Emails mit maliziösen Dokumenten zu vermeintlichen Jobangeboten."
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Mirage Tiger",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+    "group_name": "Mirage Tiger",
+    "aliases": [],
+    "targeted_sectors": [
+      "Öffentliche Verwaltung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Muddy Water / Static Kitten / Mango Sandstorm",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+    "group_name": "Muddy Water",
+    "aliases": [
+      "Static Kitten",
+      "Mango Sandstorm"
+    ],
+    "targeted_sectors": [
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung",
+      "Öffentliche Verwaltung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Mustang Panda",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+    "group_name": "Mustang Panda",
+    "aliases": [],
+    "targeted_sectors": [
+      "Öffentliche Verwaltung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Outrider Tiger (Fishing Elephant)",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+    "group_name": "Outrider Tiger Fishing Elephant",
+    "aliases": [],
+    "targeted_sectors": [
+      "Öffentliche Verwaltung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "Die Angriffe richten sich typischerweise gegen VPN-Systeme und andere Perimeter-Systeme.",
-    "Gruppenname und Aliase": "Red Dev 61 / UTA0178 / UNC5221",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche VerwaltungWirtschaftsförderung, -ordnung und -aufsicht"
+    "group_name": "Red Dev 61",
+    "aliases": [
+      "UTA0178",
+      "UNC5221"
+    ],
+    "targeted_sectors": [
+      "Öffentliche Verwaltung",
+      "Wirtschaftsförderung, -ordnung und -aufsicht"
+    ],
+    "characteristics": [
+      "Die Angriffe richten sich typischerweise gegen VPN-Systeme und andere Perimeter-Systeme."
+    ]
   },
   {
-    "Besondere Eigenschaften": "Angriffsvektor besteht im Versand von passwortgeschützten RAR-Datei, die ausführbare Dateien mit doppelter Dateiendung enthalten.",
-    "Gruppenname und Aliase": "Rezet / Rare Wolf / Librarian Ghouls",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Güterbeförderung in der See- und Küstenschifffahrt"
+    "group_name": "Rezet",
+    "aliases": [
+      "Rare Wolf",
+      "Librarian Ghouls"
+    ],
+    "targeted_sectors": [
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung",
+      "Güterbeförderung in der See- und Küstenschifffahrt"
+    ],
+    "characteristics": [
+      "Angriffsvektor besteht im Versand von passwortgeschützten RAR-Datei, die ausführbare Dateien mit doppelter Dateiendung enthalten."
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "RomCom / Storm-0978",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+    "group_name": "RomCom",
+    "aliases": [
+      "Storm-0978"
+    ],
+    "targeted_sectors": [
+      "Öffentliche Verwaltung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Salted Earth / Sturgeon Fisher / Yoro Trooper",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "unbekannt"
+    "group_name": "Salted Earth",
+    "aliases": [
+      "Sturgeon Fisher",
+      "Yoro Trooper"
+    ],
+    "targeted_sectors": [
+      "unbekannt"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "Die Gruppe kompromittiert u. a. schlecht gewartete Perimeter-Systeme. Die Motivation und Zielauswahl für Deutschland ist bislang unklar.",
-    "Gruppenname und Aliase": "Salt Typhoon",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "diverse"
+    "group_name": "Salt Typhoon",
+    "aliases": [],
+    "targeted_sectors": [
+      "diverse"
+    ],
+    "characteristics": [
+      "Die Gruppe kompromittiert u. a. schlecht gewartete Perimeter-Systeme. Die Motivation und Zielauswahl für Deutschland ist bislang unklar."
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Sharp Panda",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+    "group_name": "Sharp Panda",
+    "aliases": [],
+    "targeted_sectors": [
+      "Öffentliche Verwaltung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Sidewinder / Razor Tiger",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+    "group_name": "Sidewinder",
+    "aliases": [
+      "Razor Tiger"
+    ],
+    "targeted_sectors": [
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Snake / Venomous Bear / Turla / Secret Blizzard",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Öffentliche Verwaltung"
+    "group_name": "Snake",
+    "aliases": [
+      "Venomous Bear",
+      "Turla",
+      "Secret Blizzard"
+    ],
+    "targeted_sectors": [
+      "Öffentliche Verwaltung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "Die Gruppe nutzt eigene VPN-Netzwerken, um ihren Angriffsverkehr zu verschleiern.",
-    "Gruppenname und Aliase": "Storm-0558",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
+    "group_name": "Storm-0558",
+    "aliases": [],
+    "targeted_sectors": [
+      "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
+    ],
+    "characteristics": [
+      "Die Gruppe nutzt eigene VPN-Netzwerken, um ihren Angriffsverkehr zu verschleiern."
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Viceroy Tiger / Donot",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und OrdnungÖffentliche Verwaltung"
+    "group_name": "Viceroy Tiger",
+    "aliases": [
+      "Donot"
+    ],
+    "targeted_sectors": [
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung",
+      "Öffentliche Verwaltung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "",
-    "Gruppenname und Aliase": "Winter Vivern / TAG-70",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
+    "group_name": "Winter Vivern",
+    "aliases": [
+      "TAG-70"
+    ],
+    "targeted_sectors": [
+      "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
   },
   {
-    "Besondere Eigenschaften": "Die Täter versenden ZIP-Archive als Mail-Anhänge, in der die öffentlich verfügbare Malware Remcos enthalten ist.",
-    "Gruppenname und Aliase": "UAC-0050",
-    "Wirtschaftszweig in Deutschland nach WZ 2008": "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+    "group_name": "UAC-0050",
+    "aliases": [],
+    "targeted_sectors": [
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+    ],
+    "characteristics": [
+      "Die Täter versenden ZIP-Archive als Mail-Anhänge, in der die öffentlich verfügbare Malware Remcos enthalten ist."
+    ]
   }
 ]
