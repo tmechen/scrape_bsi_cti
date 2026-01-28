@@ -133,20 +133,23 @@
     ]
   },
   {
-    "group_name": "Dark Hotel",
-    "aliases": [],
+    "group_name": "Cruel Jackal",
+    "aliases": [
+      "MoleRats",
+      "WIRTE"
+    ],
     "targeted_sectors": [
       "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
     ],
     "characteristics": [
-      "No specific characteristics listed"
+      "Die Täter versenden u. a. maliziöse LNK-Dateien, die in Archivdateien (wie RAR) enthalten sind."
     ]
   },
   {
-    "group_name": "Earth Estries",
+    "group_name": "Dark Hotel",
     "aliases": [],
     "targeted_sectors": [
-      "unbekannt"
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
     ],
     "characteristics": [
       "No specific characteristics listed"
@@ -273,16 +276,6 @@
     ]
   },
   {
-    "group_name": "Sharp Panda",
-    "aliases": [],
-    "targeted_sectors": [
-      "Öffentliche Verwaltung"
-    ],
-    "characteristics": [
-      "No specific characteristics listed"
-    ]
-  },
-  {
     "group_name": "Sidewinder",
     "aliases": [
       "Razor Tiger"
@@ -306,16 +299,6 @@
     ],
     "characteristics": [
       "No specific characteristics listed"
-    ]
-  },
-  {
-    "group_name": "Storm-0558",
-    "aliases": [],
-    "targeted_sectors": [
-      "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
-    ],
-    "characteristics": [
-      "Die Gruppe nutzt eigene VPN-Netzwerken, um ihren Angriffsverkehr zu verschleiern."
     ]
   },
   {
