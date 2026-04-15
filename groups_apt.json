@@ -156,6 +156,16 @@
     ]
   },
   {
+    "group_name": "Frantic Tiger",
+    "aliases": [],
+    "targeted_sectors": [
+      "Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung"
+    ],
+    "characteristics": [
+      "No specific characteristics listed"
+    ]
+  },
+  {
     "group_name": "Labyrinth Chollima",
     "aliases": [
       "Lazarus",
