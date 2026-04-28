@@ -1,13 +1,5 @@
 [
   {
-    "group_name": "Everest Ransomware Group",
-    "aliases": [],
-    "description": [],
-    "responsible_for": [],
-    "has_leak_site": false,
-    "additional_characteristics": []
-  },
-  {
     "group_name": "Frozen Spider",
     "aliases": [
       "White Kali"
@@ -74,23 +66,10 @@
     "additional_characteristics": []
   },
   {
-    "group_name": "Scattered Spider",
+    "group_name": "Revenant Spider",
     "aliases": [
-      "0ktapus",
-      "DEV-0671",
-      "DEV-0875",
-      "DEV-0971",
-      "LUCR-3",
-      "Muddled Libra",
-      "Octo Tempest",
-      "Oktapus",
-      "Roasted 0ktapus",
-      "Scatter Swine",
-      "Scattered Swine",
-      "StarFraud",
-      "Storm-0875",
-      "UNC3944",
-      "White Dev 146"
+      "White Kore",
+      "Stinkbug"
     ],
     "description": [],
     "responsible_for": [],
@@ -124,6 +103,18 @@
     "additional_characteristics": []
   },
   {
+    "group_name": "White Dev 68",
+    "aliases": [
+      "Everest Ransomware Group",
+      "Everest",
+      "Everest Group"
+    ],
+    "description": [],
+    "responsible_for": [],
+    "has_leak_site": false,
+    "additional_characteristics": []
+  },
+  {
     "group_name": "White Dev 219",
     "aliases": [
       "SLSH",
@@ -135,31 +126,22 @@
     "additional_characteristics": []
   },
   {
+    "group_name": "White Dev 258",
+    "aliases": [
+      "TeamPCP",
+      "PCPcat",
+      "ShellForce",
+      "DeadCatx3"
+    ],
+    "description": [],
+    "responsible_for": [],
+    "has_leak_site": false,
+    "additional_characteristics": []
+  },
+  {
     "group_name": "White Dragon",
     "aliases": [
       "Slippery Scorpius"
-    ],
-    "description": [],
-    "responsible_for": [],
-    "has_leak_site": false,
-    "additional_characteristics": []
-  },
-  {
-    "group_name": "White Kore",
-    "aliases": [
-      "Revenant Spider",
-      "Stinkbug"
-    ],
-    "description": [],
-    "responsible_for": [],
-    "has_leak_site": false,
-    "additional_characteristics": []
-  },
-  {
-    "group_name": "White Veles",
-    "aliases": [
-      "DEV-0504",
-      "Velvet Tempest"
     ],
     "description": [],
     "responsible_for": [],
